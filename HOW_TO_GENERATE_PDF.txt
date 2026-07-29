@@ -1,0 +1,54 @@
+# 📄 Quick CV PDF Generation Guide
+
+## 🚀 3 Easy Ways to Generate Your CV PDF
+
+### Method 1: Double-Click the Batch File (EASIEST!)
+1. Double-click `OPEN_CV.bat` file in this folder
+2. Your CV will open in your default browser
+3. Press **Ctrl+P** or click the "Download as PDF" button
+4. Save as: `assets\cv.pdf`
+
+### Method 2: Direct Browser Access
+1. Navigate to the `assets` folder
+2. Double-click `cv.html`
+3. Press **Ctrl+P** 
+4. Choose "Save as PDF" or "Microsoft Print to PDF"
+5. Save as: `cv.pdf` in the same folder
+
+### Method 3: From Browser Print Dialog
+1. Open your CV in browser (use Method 1 or 2)
+2. Press **Ctrl+P** (Windows) or **Cmd+P** (Mac)
+3. In Destination: Select "Save as PDF"
+4. Click "Save"
+5. Navigate to: `assets` folder
+6. Filename: `cv.pdf`
+7. Click "Save"
+
+## 📝 After Generating PDF
+
+Once you save the PDF as `assets\cv.pdf`, the download buttons in your portfolio will work automatically!
+
+## ⚙️ Print Settings (For Best Results)
+
+When printing to PDF:
+- Layout: Portrait
+- Paper size: A4 or Letter
+- Margins: Default
+- Scale: 100%
+- Background graphics: ON (to keep colors)
+
+## ✅ Quick Checklist
+
+- [ ] Open CV (using one of the methods above)
+- [ ] Press Ctrl+P
+- [ ] Select "Save as PDF"
+- [ ] Save to `assets\cv.pdf`
+- [ ] Test download button in portfolio
+
+---
+
+**Need Help?**
+If the file won't open, right-click `OPEN_CV.bat` and select "Run as administrator"
+
+**File Location:**
+`C:\Users\Beth\OneDrive\Documents\client\jhanyn midterm exam\assets\cv.html`
